@@ -1,0 +1,1 @@
+package com.eksad.latihanrest.model;
